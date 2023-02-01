@@ -1,0 +1,5 @@
+﻿Klawiszologia:
+	Korzystając z programu wszystko wykonujemy przez kontrolki w oknie.
+	
+W programie nie ma możlwiości wczytania dowolnej triangulowanej powierzchni z pliku. 
+Domyślnie ustawiona powierzchnia - dodatnia półkula jest tworzona i triangulowana w programie.
