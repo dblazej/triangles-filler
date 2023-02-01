@@ -10,7 +10,9 @@ https://user-images.githubusercontent.com/123904190/216014755-cdb1162d-6e49-4bfc
 
 ## Podstawowa specyfikacja:
 Siatka trójkątów dana jest jako rzut prostokatny (na płaszczyznę xy)(dodatnia półkula (oś z od ekranu do obserwatora) o środku w środku ekranu (picturebox/canvas/...).
+<br/>
 ![Screenshot_1](https://user-images.githubusercontent.com/123904190/216023634-4c371079-9b84-45fa-bad3-b4f5c003d941.png)
+<br/>
 
 ## Instrukcja obsługi:
 Korzystając z programu wszystko wykonujemy przez kontrolki w oknie.
